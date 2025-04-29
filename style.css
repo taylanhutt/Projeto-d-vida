@@ -93,7 +93,7 @@ body {
     border-bottom: 4px solid var(--verde);
 }
 
-.aba.conteudo.ativo{
+.aba-conteudo.ativo{
     display: block;
 }
 
@@ -106,7 +106,7 @@ body {
     text-align: center;
 }
 
-.aba-conteudo-titulo-segundario{
+.aba-conteudo-titulo-secundario{
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
